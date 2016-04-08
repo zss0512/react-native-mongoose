@@ -3,7 +3,7 @@ A AsyncStorage based mongoose like storage for react-native
 
 ## Installation
 ```sh
-npm install @remobile/react-native-mongoose --save
+npm install @zss0512/react-native-mongoose --save
 ```
 
 ## Usage
